@@ -1,7 +1,7 @@
 # Technology Links & Information
 
 ## XR Hardware
-- [http://full/path/to/img.jpg Visor](https://www.visor.com/shop)
+- [Visor](https://cdn.shopify.com/s/files/1/0553/6949/8756/files/VisorProduct2_1ee92a0c-4716-4f62-8c30-df5bc9ef006e_1000x1500.png?v=1695108107 https://www.visor.com/shop)
 
 ## AI/ML
 - [ZoeDepth (GitHub)](https://github.com/isl-org/ZoeDepth)
