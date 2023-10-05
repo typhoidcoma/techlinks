@@ -21,6 +21,8 @@
 
 ## Gaussian Splatting
 
+- [PolyCam - 3D CAPTURE, FOR EVERYONE](https://poly.cam/explore)
+
 - [Unity Fire Test](https://x.com/Ruben_Fro/status/1709844135279272290?s=20)
 
 - [Polycam iPhone Spider](https://x.com/jimmygunawanapp/status/1709022937628725691?s=20)
