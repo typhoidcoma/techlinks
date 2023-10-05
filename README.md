@@ -14,15 +14,21 @@
   <img src="https://github.com/pinokiocomputer/pinokio/blob/main/icon.png?raw=true" height="100"/>
 
 - [Pinokio: Containers for AI](https://pinokio.computer/)
+---
 
   <img src="https://cdn.radicalmotion.com/2023/08/retarget.png" height="100"/>
 
 - [RADiCAL Live for Unreal Engine](https://radicalmotion.com/unreal) 
+---
 
   <img src="https://camo.githubusercontent.com/8d64a0d2154d45961111842fff941b9f7ee5d822bb674e5366e50ea32f2bcbdc/68747470733a2f2f6d656469612e726f626f666c6f772e636f6d2f6f70656e2d736f757263652f7375706572766973696f6e2f72662d7375706572766973696f6e2d62616e6e65722e706e673f7570646174656441743d31363738393935393237353239" height="100"/>
 
-- [Roboflow - Supervision](https://github.com/roboflow/supervision) 
+- [Roboflow - Supervision](https://github.com/roboflow/supervision)
+---
 
+  <img src="https://github.com/guoyww/AnimateDiff/raw/main/__assets__/animations/motion_lora/model_01/01.gif" height="100"/>
+
+- [AnimateDiff](https://github.com/guoyww/AnimateDiff) 
 ## Gaussian Splatting
 
 - [PolyCam - 3D CAPTURE, FOR EVERYONE](https://poly.cam/explore)
