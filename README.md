@@ -60,6 +60,7 @@
 
 - [Ilumine Works - Retro to 3D](https://huggingface.co/spaces/ilumine-AI/Retro-to-3D)
 
+- [Pika Labs - Works like Midjourney in Discord](https://www.pika.art/)
 ## Volumetric Capture / Display
 
 - [Disney Pixar NFL](https://www.sportsbusinessjournal.com/Articles/2023/10/02/toy-story-nfl-london-game-broadcast.aspx)
