@@ -47,6 +47,8 @@
 
 - [Apollo Splatting Reconstruction](https://x.com/eszenyip/status/1704539904393224416?s=20)
 
+- [Gaussian Splatting playground in Unity](https://github.com/aras-p/UnityGaussianSplatting)
+
 ## Text to Video
 - [RunwayML Movie](https://x.com/SteveMills/status/1709703521623482440?s=20)
 
