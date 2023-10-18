@@ -67,7 +67,7 @@
 
 - [An Animated Behind-the-Scenes Look at ESPN's 'Toy Story Funday Football'](https://thewaltdisneycompany.com/an-animated-behind-the-scenes-look-at-espns-toy-story-funday-football/)
 
-
+- [4K4D: Real-Time 4D View Synthesis at 4K Resolution'](https://zju3dv.github.io/4k4d/)
 
 
 
