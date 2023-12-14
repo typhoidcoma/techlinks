@@ -55,9 +55,10 @@
 ## Text to Video
 - [RunwayML Movie](https://x.com/SteveMills/status/1709703521623482440?s=20)
 
+- [RunwayML Nike Commercial](https://x.com/Martin_Haerlin/status/1709589932199526856?s=20)
+
 - [Stable Diffusion: Animated Diffusion](https://x.com/GlennIsZen/status/1709926509857960313?s=20)
 
-- [RunwayML Nike Commercial](https://x.com/Martin_Haerlin/status/1709589932199526856?s=20)
 
 <img src="https://ilumine.ai/wp-content/uploads/2023/04/giphyyyy-no-bg.gif" height="100"/>
 
@@ -76,6 +77,6 @@
 - [4K4D: Real-Time 4D View Synthesis at 4K Resolution'](https://zju3dv.github.io/4k4d/)
 
 ## Misc.
-- [Simulon](https://twitter.com/simulon?lang=en)
+- [Simulon](https://twitter.com/simulon?lang=en))
 
 
