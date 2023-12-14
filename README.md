@@ -49,6 +49,9 @@
 
 - [Gaussian Splatting playground in Unity](https://github.com/aras-p/UnityGaussianSplatting)
 
+## NeRF's
+- [The MERF that turned into a SMERF](https://neuralradiancefields.io/the-merf-that-turned-into-a-smerf/)
+
 ## Text to Video
 - [RunwayML Movie](https://x.com/SteveMills/status/1709703521623482440?s=20)
 
@@ -63,6 +66,7 @@
 - [Ilumine Works - Retro to 3D](https://huggingface.co/spaces/ilumine-AI/Retro-to-3D)
 
 - [Pika Labs - Works like Midjourney in Discord](https://www.pika.art/)
+
 ## Volumetric Capture / Display
 
 - [Disney Pixar NFL](https://www.sportsbusinessjournal.com/Articles/2023/10/02/toy-story-nfl-london-game-broadcast.aspx)
@@ -71,5 +75,7 @@
 
 - [4K4D: Real-Time 4D View Synthesis at 4K Resolution'](https://zju3dv.github.io/4k4d/)
 
+## Misc.
+- [Simulon](https://twitter.com/simulon?lang=en)
 
 
