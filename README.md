@@ -49,6 +49,8 @@
 
 - [Gaussian Splatting playground in Unity](https://github.com/aras-p/UnityGaussianSplatting)
 
+- [Free Unreal Engine 5 Gaussian Splatting Plugin](https://neuralradiancefields.io/free-unreal-engine-5-gaussian-splatting-plugin/)
+
 ## NeRF's
 - [The MERF that turned into a SMERF](https://neuralradiancefields.io/the-merf-that-turned-into-a-smerf/)
 
