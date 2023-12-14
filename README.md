@@ -59,9 +59,6 @@
 
 - [Stable Diffusion: Animated Diffusion](https://x.com/GlennIsZen/status/1709926509857960313?s=20)
 
-
-<img src="https://ilumine.ai/wp-content/uploads/2023/04/giphyyyy-no-bg.gif" height="100"/>
-
 - [Ilumine Ai](https://ilumine.ai/)
 
 - [Ilumine Works - Retro to 3D](https://huggingface.co/spaces/ilumine-AI/Retro-to-3D)
