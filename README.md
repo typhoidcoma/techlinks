@@ -51,6 +51,8 @@
 
 - [Free Unreal Engine 5 Gaussian Splatting Plugin](https://neuralradiancefields.io/free-unreal-engine-5-gaussian-splatting-plugin/)
 
+- [Photorealistic Head Avatars with Rigged 3D Gaussians](https://www.youtube.com/watch?v=lVEY78RwU_I)
+
 ## NeRF's
 - [The MERF that turned into a SMERF](https://neuralradiancefields.io/the-merf-that-turned-into-a-smerf/)
 
