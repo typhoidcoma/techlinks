@@ -73,11 +73,14 @@
 
 - [Disney Pixar NFL](https://www.sportsbusinessjournal.com/Articles/2023/10/02/toy-story-nfl-london-game-broadcast.aspx)
 
-- [An Animated Behind-the-Scenes Look at ESPN's 'Toy Story Funday Football'](https://thewaltdisneycompany.com/an-animated-behind-the-scenes-look-at-espns-toy-story-funday-football/)
+- [An Animated Behind-the-Scenes Look at ESPN's 'Toy Story Funday Football](https://thewaltdisneycompany.com/an-animated-behind-the-scenes-look-at-espns-toy-story-funday-football/)
 
-- [4K4D: Real-Time 4D View Synthesis at 4K Resolution'](https://zju3dv.github.io/4k4d/)
+- [4K4D: Real-Time 4D View Synthesis at 4K Resolution](https://zju3dv.github.io/4k4d/)
+
+## SLAM
+- [Autonomous Under Canopy Navigation and Mapping in Dense Forests](https://www.youtube.com/watch?v=9NZvVPvUrPo)
 
 ## Misc.
-- [Simulon](https://twitter.com/simulon?lang=en))
+- [Simulon](https://twitter.com/simulon?lang=en)
 
 
