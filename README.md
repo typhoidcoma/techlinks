@@ -29,7 +29,9 @@
   <img src="https://github.com/guoyww/AnimateDiff/raw/main/__assets__/animations/motion_lora/model_01/01.gif" height="100"/>
 
 - [AnimateDiff](https://github.com/guoyww/AnimateDiff) 
+
 ## Gaussian Splatting
+- [4K4D](https://zju3dv.github.io/4k4d/)
 
 - [PolyCam - 3D CAPTURE, FOR EVERYONE](https://poly.cam/explore)
 
