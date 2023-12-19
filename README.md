@@ -31,6 +31,8 @@
 - [AnimateDiff](https://github.com/guoyww/AnimateDiff) 
 
 ## Gaussian Splatting
+- [HUGS: Human Gaussian Splats](https://machinelearning.apple.com/research/hugs)
+
 - [4K4D](https://zju3dv.github.io/4k4d/)
 
 - [PolyCam - 3D CAPTURE, FOR EVERYONE](https://poly.cam/explore)
