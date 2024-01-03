@@ -75,11 +75,17 @@
 
 ## Volumetric Capture / Display
 
+- [EasyVolcap](https://github.com/zju3dv/EasyVolcap)
+
 - [Disney Pixar NFL](https://www.sportsbusinessjournal.com/Articles/2023/10/02/toy-story-nfl-london-game-broadcast.aspx)
 
 - [An Animated Behind-the-Scenes Look at ESPN's 'Toy Story Funday Football](https://thewaltdisneycompany.com/an-animated-behind-the-scenes-look-at-espns-toy-story-funday-football/)
 
 - [4K4D: Real-Time 4D View Synthesis at 4K Resolution](https://zju3dv.github.io/4k4d/)
+
+## 3D Reconstruction
+
+- [ide-by-Side (SBS) 3D Video Generation Framework](https://github.com/TheWiselyBearded/sbs-generator)
 
 ## SLAM
 - [Autonomous Under Canopy Navigation and Mapping in Dense Forests](https://www.youtube.com/watch?v=9NZvVPvUrPo)
