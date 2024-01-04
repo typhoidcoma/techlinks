@@ -1,32 +1,18 @@
 # Technology Links
 
 ## XR Hardware
-  <img src="https://cdn.shopify.com/s/files/1/0553/6949/8756/files/VisorProduct2_1ee92a0c-4716-4f62-8c30-df5bc9ef006e_1000x1500.png?v=1695108107" width="100"/>
-
 - [Visor](https://www.visor.com/shop)
 
 ## AI/ML
-  <img src="https://raw.githubusercontent.com/isl-org/ZoeDepth/main/assets/zoedepth-teaser.png" height="100"/>
-
 - [ZoeDepth (GitHub)](https://github.com/isl-org/ZoeDepth)
+
 - [ZoeDepth (Hugging Face)](https://huggingface.co/spaces/shariqfarooq/ZoeDepth)
 
-  <img src="https://github.com/pinokiocomputer/pinokio/blob/main/icon.png?raw=true" height="100"/>
-
 - [Pinokio: Containers for AI](https://pinokio.computer/)
----
-
-  <img src="https://cdn.radicalmotion.com/2023/08/retarget.png" height="100"/>
 
 - [RADiCAL Live for Unreal Engine](https://radicalmotion.com/unreal) 
----
-
-  <img src="https://camo.githubusercontent.com/8d64a0d2154d45961111842fff941b9f7ee5d822bb674e5366e50ea32f2bcbdc/68747470733a2f2f6d656469612e726f626f666c6f772e636f6d2f6f70656e2d736f757263652f7375706572766973696f6e2f72662d7375706572766973696f6e2d62616e6e65722e706e673f7570646174656441743d31363738393935393237353239" height="100"/>
 
 - [Roboflow - Supervision](https://github.com/roboflow/supervision)
----
-
-  <img src="https://github.com/guoyww/AnimateDiff/raw/main/__assets__/animations/motion_lora/model_01/01.gif" height="100"/>
 
 - [AnimateDiff](https://github.com/guoyww/AnimateDiff) 
 
@@ -74,7 +60,6 @@
 - [Pika Labs - Works like Midjourney in Discord](https://www.pika.art/)
 
 ## Volumetric Capture / Display
-
 - [EasyVolcap](https://github.com/zju3dv/EasyVolcap)
 
 - [Disney Pixar NFL](https://www.sportsbusinessjournal.com/Articles/2023/10/02/toy-story-nfl-london-game-broadcast.aspx)
@@ -84,11 +69,12 @@
 - [4K4D: Real-Time 4D View Synthesis at 4K Resolution](https://zju3dv.github.io/4k4d/)
 
 ## 3D Reconstruction
-
 - [ide-by-Side (SBS) 3D Video Generation Framework](https://github.com/TheWiselyBearded/sbs-generator)
 
-## SLAM
+## SLAM / Tracking
 - [Autonomous Under Canopy Navigation and Mapping in Dense Forests](https://www.youtube.com/watch?v=9NZvVPvUrPo)
+
+- [CoTracker](https://huggingface.co/spaces/facebook/cotracker)
 
 ## Misc.
 - [Simulon](https://twitter.com/simulon?lang=en)
