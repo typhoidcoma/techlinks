@@ -46,6 +46,8 @@
 ## NeRF's
 - [The MERF that turned into a SMERF](https://neuralradiancefields.io/the-merf-that-turned-into-a-smerf/)
 
+- [GARField: Group Anything with Radiance Fields](https://x.com/_akhaliq/status/1747863699581218821?s=20)
+
 ## Text to Video
 - [RunwayML Movie](https://x.com/SteveMills/status/1709703521623482440?s=20)
 
